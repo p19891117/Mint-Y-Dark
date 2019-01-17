@@ -209,7 +209,7 @@ StScrollBar {
   color: #f0f0f0;
   border: 1px solid #202020;
   border-radius: 3px;
-  background-color: rgba(47, 47, 47, 0.99); }
+  background-color: #0A4B8B; }
   .menu.top {
     border-radius: 0 0 3px 3px; }
   .menu.bottom {
@@ -220,7 +220,7 @@ StScrollBar {
     border-radius: 3px 0 0 3px; }
 
 .popup-sub-menu {
-  background-color: #404040;
+  background-color: #0A4B8B;
   box-shadow: none; }
   .popup-sub-menu .popup-menu-item:ltr {
     padding-right: 1.75em; }
@@ -258,7 +258,7 @@ StScrollBar {
   .popup-menu-arrow {
     icon-size: 16px; }
   .popup-menu .popup-sub-menu {
-    background-color: #404040;
+    background-color: #0A4B8B;
     box-shadow: none; }
     .popup-menu .popup-sub-menu .popup-menu-item:ltr {
       padding-right: 1.75em; }
@@ -330,6 +330,7 @@ StScrollBar {
   spacing: .5em; }
 
 #panel {
+	background-color: #0A4B8B;
   font-weight: bold;
   /* sets the height of horizontal panels */
   height: 40px;
@@ -732,7 +733,7 @@ StScrollBar {
 .switcher-list {
   color: #f0f0f0;
   border: 1px solid #202020;
-  background-color: #2f2f2f;
+  background-color: #0A4B8B;
   border-radius: 3px;
   padding: 20px; }
   .switcher-list > StBoxLayout {
