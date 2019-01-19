@@ -354,8 +354,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* This is for popup menus in Cinnamon versions < 3.2 */
 .popup-menu {
-  color: white;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .popup-menu-arrow {
@@ -2048,7 +2047,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   padding-left: 4px;
   padding-right: 4px;
   spacing: 4px;
-  color: #f0f0f0;
+  color: #ffffff;
   text-shadow: none;
   transition-duration: 100;
   text-align: center;
@@ -2086,7 +2085,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .applet-label {
   font-weight: bold;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .applet-label:hover, .applet-label:checked, .applet-box:hover > .applet-label, .applet-box:checked > .applet-label {
