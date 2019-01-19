@@ -271,7 +271,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #LookingGlassDialog {
-  color: #f0f0f0;
+  color: #ffffff;
   border: 1px solid #202020;
   border-radius: 3px;
   background-color: #2f2f2f;
@@ -280,7 +280,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .menu {
-  color: #f0f0f0;
+  color: #ffffff;
   border: 1px solid #202020;
   border-radius: 3px;
   background-color: #0A4B8B;
@@ -345,7 +345,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-inactive-menu-item {
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .popup-inactive-menu-item:insensitive {
@@ -395,7 +395,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu .popup-menu-item:active {
-  color: #f0f0f0;
+  color: #ffffff;
   border-color: rgba(240, 240, 240, 0.11);
   background-color: rgba(240, 240, 240, 0.08);
 }
@@ -406,7 +406,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu .popup-inactive-menu-item {
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .popup-menu .popup-inactive-menu-item:insensitive {
@@ -863,7 +863,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-month-label {
-  color: #f0f0f0;
+  color: #ffffff;
   font-weight: bold;
   padding: 8px 0;
 }
@@ -926,7 +926,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   padding: .4em 1.75em;
   font-weight: bold;
   text-align: center;
-  color: #f0f0f0;
+  color: #ffffff;
   border-radius: 2px;
 }
 
@@ -960,7 +960,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-nonwork-day {
-  color: #f0f0f0;
+  color: #ffffff;
   background-color: transparent;
   font-weight: bold;
 }
@@ -991,11 +991,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   spacing-columns: 10px;
   margin-from-right-edge-of-screen: 20px;
   width: 34em;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .popup-menu #notification {
-  color: #f0f0f0;
+  color: #ffffff;
   border-image: url("dark-assets/misc/message.svg") 9 9 9 9;
 }
 
@@ -1005,7 +1005,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 #notification.multi-line-notification {
   padding-bottom: 13px;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 #notification-scrollview {
@@ -1034,7 +1034,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .notification-with-image {
   min-height: 159px;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .notification-button, .notification-icon-button {
@@ -1051,7 +1051,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .switcher-list {
-  color: #f0f0f0;
+  color: #ffffff;
   border: 1px solid #202020;
   background-color: #0A4B8B;
   border-radius: 3px;
@@ -1098,7 +1098,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .switcher-arrow {
   border-color: transparent;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .switcher-arrow:highlighted {
@@ -1180,7 +1180,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .run-dialog-label {
   font-size: 0;
   font-weight: bold;
-  color: #f0f0f0;
+  color: #ffffff;
   padding-bottom: 0;
 }
 
@@ -1213,7 +1213,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .run-dialog-entry:focus {
-  color: #f0f0f0;
+  color: #ffffff;
   background-color: #404040;
   border: 1px solid #8fa876;
   box-shadow: inset 0 2px 4px rgba(64, 64, 64, 0.05);
@@ -1489,12 +1489,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   width: 250px;
   min-height: 16px;
   font-weight: normal;
-  caret-color: #f0f0f0;
+  caret-color: #ffffff;
 }
 
 .menu-search-entry-icon {
   icon-size: 1em;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 /* Context menu (at the moment only for favorites) */
@@ -1503,7 +1503,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   font-weight: bold;
   spacing: 1em;
   padding: 16px;
-  color: #f0f0f0;
+  color: #ffffff;
   border: 1px solid #202020;
   border-radius: 5px;
   background-color: #2f2f2f;
@@ -1514,7 +1514,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   font-weight: bold;
   spacing: 1em;
   padding: 20px;
-  color: #f0f0f0;
+  color: #ffffff;
   background-color: #2f2f2f;
   border: 1px solid #202020;
   border-radius: 5px;
@@ -1620,7 +1620,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .window-list-preview {
   spacing: 6px;
-  color: #f0f0f0;
+  color: #ffffff;
   border: 1px solid #202020;
   background-color: #2f2f2f;
   border-radius: 3px;
@@ -1715,7 +1715,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .grouped-window-list-thumbnail-menu {
-  color: #f0f0f0;
+  color: #ffffff;
   border: 1px solid #202020;
   background-color: #2f2f2f;
   border-radius: 3px;
@@ -1835,7 +1835,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .sound-player > StBoxLayout:first-child StButton:small:hover {
-  color: #f0f0f0;
+  color: #ffffff;
   background-color: #525252;
   border: 1px solid #202020;
   box-shadow: inset 0 2px 4px rgba(82, 82, 82, 0.05);
@@ -1859,14 +1859,14 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   spacing: 0.5em;
   background: rgba(47, 47, 47, 0.9);
   border-top: 1px solid #202020;
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .sound-player-overlay StButton {
   width: 22px;
   height: 13px;
   padding: 5px;
-  color: #f0f0f0;
+  color: #ffffff;
   border-radius: 2px;
   border: 1px solid transparent;
 }
@@ -1876,7 +1876,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .sound-player-overlay StButton:hover {
-  color: #f0f0f0;
+  color: #ffffff;
   background-color: #525252;
   border: 1px solid #202020;
   box-shadow: inset 0 2px 4px rgba(82, 82, 82, 0.05);
@@ -2112,14 +2112,14 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .user-label {
-  color: #f0f0f0;
+  color: #ffffff;
   font-size: 1em;
   font-weight: bold;
   margin: 0px;
 }
 
 .desklet {
-  color: #f0f0f0;
+  color: #ffffff;
 }
 
 .desklet:highlight {
@@ -2130,7 +2130,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border: 1px solid #202020;
   border-radius: 5px;
   background-color: #2f2f2f;
-  color: #f0f0f0;
+  color: #ffffff;
   padding: 12px;
   padding-bottom: 16px;
 }
@@ -2144,7 +2144,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border-top-width: 0;
   border-radius: 0 0 5px 5px;
   background-color: #2f2f2f;
-  color: #f0f0f0;
+  color: #ffffff;
   border-radius: 0;
   border-radius-topleft: 0;
   border-radius-topright: 0;
@@ -2160,7 +2160,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border: 1px solid #202020;
   border-radius: 5px 5px 0 0;
   background-color: #272727;
-  color: #f0f0f0;
+  color: #ffffff;
   font-size: 1em;
   padding: 12px;
   padding-bottom: 6px;
@@ -2175,7 +2175,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border: 1px solid #202020;
   border-radius: 5px;
   background-color: #2f2f2f;
-  color: #f0f0f0;
+  color: #ffffff;
   padding: 12px;
   padding-bottom: 16px; }
 
